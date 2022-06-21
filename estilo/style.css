@@ -71,6 +71,7 @@ nav{
     background-color: var(--cor5);
     padding: 10px;
     box-shadow: inset 0px 7px 7px rgba(27, 8, 8, 0.116);
+    margin-top: auto;
 }
 nav > a{
     color:rgb(51, 255, 44);
